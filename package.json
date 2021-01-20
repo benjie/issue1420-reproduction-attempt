@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "server": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "postgraphile": "^4.10.0",
+    "prettier": "^2.2.1"
+  }
+}
